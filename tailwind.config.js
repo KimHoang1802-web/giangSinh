@@ -7,12 +7,12 @@ module.exports = {
         center: true,
       },
       backgroundImage: {
-        'custom-pattern': "url('../img/bg-noel.jpg')",
-        'custom-pattern2': "url('../img/bg-noel2.jpg')",
+        'custom-pattern': "url('../img/bg-noel1.jpg')",
+        'custom-pattern2': "url('../img/bg-noel3.jpg')",
       },
       // 
       animation: {
-        fadeIn: 'fadeIn 16s ease-in-out forwards',
+        fadeIn: 'fadeIn 10s ease-in-out forwards',
       },
       keyframes: {
         fadeIn: {
