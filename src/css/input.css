@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.styled-image {
+    border-radius: 15px; /* Bo góc 15px */
+    box-shadow: 0 4px 8px rgba(25, 25, 25, 0.2); /* Bóng đổ nhẹ */
+    width: 300px; /* Thay đổi kích thước ảnh nếu cần */
+    height: auto; /* Giữ tỉ lệ khung hình */
+}
