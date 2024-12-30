@@ -1,0 +1,8 @@
+    {
+        "rewrites": [
+        { "source": "/muaxuan", "destination": "/muaXuan.html" },
+        { "source": "/muathu", "destination": "/muaThu.html" },
+        { "source": "/muaha", "destination": "/muaHe.html" },
+        { "source": "/muadong", "destination": "/muaDong.html" }
+        ]
+    }
